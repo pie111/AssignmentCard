@@ -1,0 +1,21 @@
+.Employee-details
+{
+	color:#ff0000;
+	text-align: center;
+}
+
+.card
+{
+	border-radius: 12px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: black;
+	margin: 2em;
+	
+	
+}
+
+#card-id
+{
+	text-align: center;
+	font-weight: bolder;
+}
